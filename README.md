@@ -1,3 +1,1 @@
-This repo is created by mistake, when I was learning using git and github.
-So, you can ignore this repo and can have a look at the other repo I have created.
-Thanks
+This repo contains the work I have done in Kaggle competition, the notebook here only contains code and not the dataset. For Dataset you have to llok on kaggle.
